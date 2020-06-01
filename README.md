@@ -1,4 +1,4 @@
-# bookers1-debug
+# bookers2-debug
 ## DMM WEBCAMP 2ヶ月目応用課題
 
 ### 課題2 Bookers2を完成させよう(穴埋め)
